@@ -1,1 +1,1 @@
-# ai_doc_processing
+# Process pdf and other documents as images using Gemma 3 to produce summayr
